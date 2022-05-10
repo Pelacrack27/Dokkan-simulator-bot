@@ -294,5 +294,5 @@ async def on_message(message):
         await message.channel.send("**Multisummon finalizado**")
 
 
-neverSleep.awake('https://DokkansimulatorV2.pelayomuniz.repl.co', False)
-client.run("OTcxMzU4MDk1NDc5NTYyMjg0.G9WcEU.sq0DY1ihQ_qzD4nVFMgtr2pV88uCtG9ZOsKlyI")
+neverSleep.awake('ReplURL', False)
+client.run("TOKEN DEL BOT")
